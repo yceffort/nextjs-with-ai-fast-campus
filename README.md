@@ -1,0 +1,1 @@
+# nextjs-with-ai-fast-campus
