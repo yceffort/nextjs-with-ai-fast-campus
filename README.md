@@ -230,6 +230,7 @@ webpack: (config) => {
 const systemPrompt = `You are an expert TypeScript developer.
 Always use modern React patterns and explain your choices.`
 ```
+- github 연동도 해야할지 고민중
 
 ---
 
